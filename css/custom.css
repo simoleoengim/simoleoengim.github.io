@@ -1,0 +1,13 @@
+.navbar-brand {
+    color: rgb(255, 255, 255);
+}
+
+.navbar-brand:hover{
+    color: rgb(17, 255, 0);
+}
+
+.verticaltext{
+    width:1px;
+    word-wrap: break-word;
+    white-space:pre-wrap; 
+ }
